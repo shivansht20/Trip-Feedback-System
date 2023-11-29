@@ -1,6 +1,6 @@
 # Trip-Feedback-System
 
-n this project, two distinct user roles are defined: Traveler and Transport Manager.
+In this project, two distinct user roles are defined: Traveler and Transport Manager.
 
 Traveler:
 
